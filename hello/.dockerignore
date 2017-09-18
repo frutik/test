@@ -1,0 +1,12 @@
+Gemfile.lock
+.git
+.gitignore
+.gitmodules
+.idea
+.ruby-version
+.vagrant
+docker-*
+Dockerfile.*
+Vagrantfile
+ansible
+ansible.cfg
